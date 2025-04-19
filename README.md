@@ -5,7 +5,7 @@ This script automatically creates a Spotify playlist with songs from the **lates
 Artist information is scraped from the [official Lowlands website](https://lowlands.nl/acts/), and the playlist is created using the [Spotify Web API](https://developer.spotify.com/documentation/web-api/).
 
 <p align="center">
-  <img src="https://lowlands.nl/_next/image?url=%2Fassets%2Fimages%2Fbrand%2Flogo-lowlands.svg&w=256&q=75" alt="Lowlands Logo" width="200"/>
+  <img src="https://lowlands.nl/media/images/LL25_facebook_HeaderEventPage-192.2e16d0ba.fill-1200x628.jpg" alt="Lowlands Logo" width="200"/>
 </p>
 
 ---
