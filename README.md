@@ -28,12 +28,12 @@ git clone https://github.com/Dtenwolde/lowlands2025-playlist.git
 cd lowlands2025-playlist
 ```
 
-### Install dependencies
+### 2. Install dependencies
 ```bash 
 pip install -r requirements.txt
 ```
 
-### Set up Spotify API credentials
+### 3. Set up Spotify API credentials
 Create a .env file in the root of the project and add your credentials:
 ```
 SPOTIFY_CLIENT_ID=your_client_id
@@ -42,7 +42,7 @@ SPOTIPY_REDIRECT_URI=http://127.0.0.1:8080/callback
 SPOTIFY_USERNAME=your_spotify_username
 ```
 
-### Run the script
+### 4. Run the script
 ```bash
 python latest_albums.py
 python most_listened_songs.py
